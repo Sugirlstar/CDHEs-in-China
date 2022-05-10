@@ -6,8 +6,7 @@ Two R workspaces (the processed data), three main scripts, some phase results, a
 
 The framework is shown in the figure below:
 
-[the framework figure]
-
+![framework_figure](https://user-images.githubusercontent.com/76802881/167647388-c60036f2-73ec-456c-a6c0-d4c36403a9fc.png)
 
 *Note that this is a provisional edition for review before publication. Possible revise can be made if necessary.*
 
