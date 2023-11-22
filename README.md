@@ -1,4 +1,4 @@
-# Repostery supporting for the paper *Heatwaves Dominate the Temporal Variation of Compound Dry-hot Events in China during 1961-2020*
+# Repostery supporting for the paper *Spatial-temporal variations and drivers of the compound dry-hot event in China*
 ---
 Here is the respostery containing processed data, indicies calculating, statistical analysis, and figure generating programs of the paper *Heatwaves Dominate the Temporal Variation of Compound Dry-hot Events in China during 1961-2020​*.
 
